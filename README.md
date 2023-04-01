@@ -1,6 +1,6 @@
 # Cypress Com Cucumber na versão mais recente do Cypress
 
-Devido à dificuldade da comunidade do Cypress em utilizar o plugin Cucumber na versão mais recente do Cypress, criei este projeto com o intuito de ajudar uma pessoa da comunidade. Recebi feedback positivo sobre a solução que propus e, agora, decidi tornar esse projeto público para que outras pessoas possam usá-lo.
+A comunidade do Cypress tem dificuldade em configurar o Cypress com o Cucumber, então eu criei um projeto base para a galera iniciar.
 
 ## Funcionalidade
 
